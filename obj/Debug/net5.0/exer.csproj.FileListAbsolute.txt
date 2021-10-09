@@ -1,0 +1,16 @@
+C:\Users\Ronan\Desktop\Prog\c#\exercicios\exer\bin\Debug\net5.0\exer.exe
+C:\Users\Ronan\Desktop\Prog\c#\exercicios\exer\bin\Debug\net5.0\exer.deps.json
+C:\Users\Ronan\Desktop\Prog\c#\exercicios\exer\bin\Debug\net5.0\exer.runtimeconfig.json
+C:\Users\Ronan\Desktop\Prog\c#\exercicios\exer\bin\Debug\net5.0\exer.runtimeconfig.dev.json
+C:\Users\Ronan\Desktop\Prog\c#\exercicios\exer\bin\Debug\net5.0\exer.dll
+C:\Users\Ronan\Desktop\Prog\c#\exercicios\exer\bin\Debug\net5.0\ref\exer.dll
+C:\Users\Ronan\Desktop\Prog\c#\exercicios\exer\bin\Debug\net5.0\exer.pdb
+C:\Users\Ronan\Desktop\Prog\c#\exercicios\exer\obj\Debug\net5.0\exer.csproj.AssemblyReference.cache
+C:\Users\Ronan\Desktop\Prog\c#\exercicios\exer\obj\Debug\net5.0\exer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronan\Desktop\Prog\c#\exercicios\exer\obj\Debug\net5.0\exer.AssemblyInfoInputs.cache
+C:\Users\Ronan\Desktop\Prog\c#\exercicios\exer\obj\Debug\net5.0\exer.AssemblyInfo.cs
+C:\Users\Ronan\Desktop\Prog\c#\exercicios\exer\obj\Debug\net5.0\exer.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\Desktop\Prog\c#\exercicios\exer\obj\Debug\net5.0\exer.dll
+C:\Users\Ronan\Desktop\Prog\c#\exercicios\exer\obj\Debug\net5.0\ref\exer.dll
+C:\Users\Ronan\Desktop\Prog\c#\exercicios\exer\obj\Debug\net5.0\exer.pdb
+C:\Users\Ronan\Desktop\Prog\c#\exercicios\exer\obj\Debug\net5.0\exer.genruntimeconfig.cache
